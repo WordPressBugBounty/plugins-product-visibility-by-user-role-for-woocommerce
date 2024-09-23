@@ -1,0 +1,1 @@
+# plugins-product-visibility-by-user-role-for-woocommerce
